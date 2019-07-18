@@ -8,6 +8,9 @@ Filelist
 links.txt
   SSH Filesystem related links
 
+packages.txt
+  Ubuntu/Debian sshfs packages
+
 sshfs.txt
   SSH Filesystem
 
