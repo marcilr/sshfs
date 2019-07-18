@@ -5,3 +5,14 @@ Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
 
 SSH Filesystem
 
+
+SSHFS allows you to mount a remote filesystem using SFTP.
+Most SSH servers support and enable this SFTP access by default,
+so SSHFS is very simple to use - there's nothing to do on the server-side.
+
+
+Links
+=====
+libfuse/sshfs
+A network filesystem client to connect to SSH servers
+https://github.com/libfuse/sshfs
