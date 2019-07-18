@@ -8,4 +8,6 @@ SSH Filesystem related links
 
 Links
 =====
-
+libfuse/sshfs
+A network filesystem client to connect to SSH servers
+https://github.com/libfuse/sshfs
