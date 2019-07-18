@@ -8,6 +8,10 @@ SSH Filesystem related links
 
 Links
 =====
+How To Use SSHFS to Mount Remote File Systems Over SSH
+Updated November 9, 2016, 1.5m views, LINUX BASICS
+https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh
+
 libfuse/sshfs
 A network filesystem client to connect to SSH servers
 https://github.com/libfuse/sshfs
