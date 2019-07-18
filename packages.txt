@@ -1,0 +1,10 @@
+packages.txt
+Created Thu Jul 18 09:04:53 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Ubuntu/Debian sshfs packages
+
+
+sshfs - filesystem client based on SSH File Transfer Protocol
+vagrant-sshfs - vagrant plugin that adds synced folder support with sshfs
